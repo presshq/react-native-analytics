@@ -1,10 +1,10 @@
 {
-  "name": "react-native-analytics",
-  "version": "0.1.1",
-  "description": "The Ananlytics API you've always wanted. Now for React Native. Powered by Segment.",
+  "name": "react-native-analytics-segment",
+  "version": "0.1.2",
+  "description": "The Analytics API you've always wanted. Now for React Native. Powered by Segment.",
   "repository": {
     "type": "git",
-    "url": "git@github.com:tonyxiao/react-native-analytics.git"
+    "url": "git@github.com:presshq/react-native-analytics.git"
   },
   "keywords": [
     "react-native",
@@ -25,22 +25,23 @@
       "name": "Tony Xiao",
       "email": "tonyx.ca@gmail.com",
       "url": "https://tonyxiao.com"
+    }, {
+      "name": "Ryan Norton",
+      "email": "nort.ryan@gmail.com",
+      "url": "https://www.presscleaners.com"
     }
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tonyxiao/react-native-analytics/issues"
+    "url": "https://github.com/presshq/react-native-analytics/issues"
   },
   "maintainers": [
     {
-      "name": "talkain",
-      "email": "tal@kain.net"
-    }, {
-      "name": "tonyxiao",
-      "email": "tonyx.ca@gmail.com"
+      "name": "Ryan Norton",
+      "email": "nort.ryan@gmail.com"
     }
   ],
-  "homepage": "https://github.com/tonyxiao/react-native-analytics",
+  "homepage": "https://github.com/presshq/react-native-analytics",
   "peerDependencies": {
     "react-native": ">=0.7.0"
   }
